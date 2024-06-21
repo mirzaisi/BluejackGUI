@@ -1,8 +1,8 @@
 package com.mirzaisi.BluejackGUI.GameLogic.Players;
 
 import com.mirzaisi.BluejackGUI.GameLogic.Decks.BaseDeck;
-import com.mirzaisi.BluejackGUI.GameLogic.Decks.GameDeck;
-import com.mirzaisi.BluejackGUI.GameLogic.Decks.PlayerDeck;
+import com.mirzaisi.BluejackGUI.GameLogic.Decks.DifferentDecks.GameDeck;
+import com.mirzaisi.BluejackGUI.GameLogic.Decks.DifferentDecks.PlayerDeck;
 import com.mirzaisi.BluejackGUI.GameLogic.Players.Base.BasePlayer;
 
 public class Player extends BasePlayer{

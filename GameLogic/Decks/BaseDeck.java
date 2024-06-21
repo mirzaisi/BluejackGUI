@@ -11,6 +11,7 @@ import com.mirzaisi.BluejackGUI.GameLogic.Cards.DifferentCards.SignedCard;
 import com.mirzaisi.BluejackGUI.GameLogic.Cards.DifferentCards.SpecialCard;
 import com.mirzaisi.BluejackGUI.GameLogic.Cards.Enums.COLORED_FOLDERS;
 import com.mirzaisi.BluejackGUI.GameLogic.Cards.Enums.COLOR_CODES;
+import com.mirzaisi.BluejackGUI.GameLogic.Decks.DifferentDecks.GameDeck;
 import com.mirzaisi.BluejackGUI.GameLogic.Cards.Card;
 
 public class BaseDeck {
