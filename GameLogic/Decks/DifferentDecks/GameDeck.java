@@ -1,4 +1,4 @@
-package com.mirzaisi.BluejackGUI.GameLogic.Decks;
+package com.mirzaisi.BluejackGUI.GameLogic.Decks.DifferentDecks;
 
 import java.io.File;
 import java.nio.file.Path;
